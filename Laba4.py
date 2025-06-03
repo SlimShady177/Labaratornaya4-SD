@@ -60,7 +60,7 @@ def find_words(input_word: str, dictionary: Dict[int, List[tuple[str, str]]]) ->
 
 
 def main():
-    print("Выполнил: Шишкалов Иван Дмитриевич, Группа: 090301-ПОВа-о24")
+    print("Работу выполнил: Шишкалов Иван Дмитриевич 09.03.01 ПОВа-o24")
     dictionary_file = "russian_nouns.txt"
 
     print("Инициализация словаря...")
